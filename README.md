@@ -27,10 +27,10 @@
 </br>
 
 <h2>🌟  Lenguajes más utilizados:</h2>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ixshelc&theme=radical&show_icons=true&locale=en&layout=compact&" alt="ixshelc"/></p> </br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ixshelc&theme=radical&show_icons=true&locale=es&layout=compact&" alt="ixshelc"/></p> </br>
 
 <h2>📉 Estadísticas de Github </h2>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ixshelc&show_icons=true&theme=radical"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ixshelc&show_icons=true&theme=radical&locale=es"/></p>
 
 <h2>🐍 Gráfica </h2>
  <p align="center"><img align="center" src="https://github.com/ixshelC/ixshelC/blob/output/github-contribution-grid-snake.svg"/></p>
