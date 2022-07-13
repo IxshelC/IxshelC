@@ -7,7 +7,7 @@
 
 - Estudié la Ingeniería en sistemas computacionales y una Especialidad en sistemas de información.
 - Conocimientos en Gestión de proyectos, Bases de datos, Soporte TI.
-- Actualmente estoy aprendiendo Tecnologías de Desarrollo Web.
+- Actualmente estoy aprendiendo Tecnologías de Desarrollo Web y Análisis de datos.
 
 <h2>🧠  Aprendiendo :</h2>
 <p align="center"></br>
@@ -16,7 +16,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="50" />
+           
+
 
 <h2>⚡  Lenguajes y Herramientas:</h2>
 
@@ -30,7 +32,7 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ixshelc&theme=radical&show_icons=true&locale=es&layout=compact&" alt="ixshelc"/></p> </br>
 
 <h2>📉 Estadísticas de Github </h2>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ixshelc&show_icons=true&theme=radical&locale=es"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ixshelc&show_icons=true&theme=cobalt&locale=es "/></p>
 
 <h2>🐍 Gráfica </h2>
  <p align="center"><img align="center" src="https://github.com/ixshelC/ixshelC/blob/output/github-contribution-grid-snake.svg"/></p>
@@ -42,3 +44,4 @@
 <a href="https://instagram.com/ixicrown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ixicrown" height="30" width="40" /></a>
 <a href="https://twitter.com/ixicrown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ixicrown" height="30" width="40" /></a></p>
 
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=ixshelc.id&left_color=green&right_color=red) -->
